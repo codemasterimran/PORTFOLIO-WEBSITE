@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "date": "16/02/2024",
+      "title": "PORTFOLIO",
+      "description": "Showcasing my expertise through innovative design and seamless functionality, my portfolio website invites exploration into my creative world.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    },
+    {
+      "date": "13/01/2024",
+      "title": "XCrypto",
+      "description": "Stay ahead with real-time updates on crypto prices at X Crypto website, providing instant insights for informed investment decisions",
+      "url": "https://xcrypto-react-app-psi.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "09/02/2024",
+      "title": "TECHY STAR",
+      "description": "A REACT WEBSITE TO TEACH YOU TECH COURSES ",
+      "url": "https://react-project-2-theta.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "17/12/2022",
+      "title": "STOCK MARKET PRICE PREDICTOR",
+      "description": "Empowering investors with real-time stock prices and predictive insights, our website offers a comprehensive view of stock market history for informed decision-making",
+      "url": "https://stockmarketprediction-79b28.web.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    
+    {
+      "date": "11/12/2023",
+      "title": "DRUM KIT ",
+      "description": "Unleash your rhythm with our drumkit website, transforming your keyboard into a dynamic drum set for endless beats and creativity.",
+      "url": "https://aesthetic-wisp-4d05c0.netlify.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    }
+    
+    
+    
+  ]
+}
